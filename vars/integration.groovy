@@ -1,3 +1,3 @@
-def integration(){
+def call(){
   sh 'mvn verify -DskipUnitTests'
    }
