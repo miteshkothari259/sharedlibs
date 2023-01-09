@@ -1,3 +1,3 @@
 def unit(){
-  sh 'mvn test'
+  sh "mvn test"
 }
