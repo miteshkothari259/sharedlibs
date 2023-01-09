@@ -1,3 +1,3 @@
-def unit(){
+def call(){
   sh "mvn test"
 }
